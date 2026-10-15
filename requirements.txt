@@ -1,0 +1,4 @@
+Django==5.1.4               # веб-фреймворк
+psycopg2-binary==2.9.10    # драйвер PostgreSQL
+redis==5.2.0               # клиент Redis
+python-dotenv==1.0.1       # чтение .env
